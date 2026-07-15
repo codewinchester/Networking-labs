@@ -9,7 +9,7 @@ Senior Partner Harvey has just opened a small law office. Right now, it's a tigh
 * **Room to Grow:** The setup needs to allow them to add more computers easily later on without having to change the whole network configuration.
 
 ## 3. Network Topology
-![Phase 1 Topology](./topology.png)
+![Phase 1 Topology](./Topology.png)
 
 ## 4. IP Addressing Scheme
 
